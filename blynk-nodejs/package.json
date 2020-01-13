@@ -1,0 +1,15 @@
+{
+  "name": "blynk-nodejs",
+  "version": "1.0.0",
+  "description": "Fetching data from blynk server and sending it to Arduino",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikhil Kr",
+  "license": "ISC",
+  "dependencies": {
+    "blynk-library": "^0.5.4",
+    "serialport": "^8.0.6"
+  }
+}
